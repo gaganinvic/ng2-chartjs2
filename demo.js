@@ -50,4 +50,4 @@ AppComponent = __decorate([
 exports.AppComponent = AppComponent;
 var platform_browser_dynamic_1 = require("@angular/platform-browser-dynamic");
 platform_browser_dynamic_1.bootstrap(AppComponent);
-//# sourceMappingURL=demo.component.js.map
+//# sourceMappingURL=demo.js.map
