@@ -94,3 +94,12 @@ This repo will only document things related to the Angular 2 Component. To under
   - [x] Data
   - [x] Type
 - [ ] Route chart events through component outputs
+
+## Install
+
+```
+npm install -g typings
+typings install dt~es6-promise dt~es6-collections --global --save
+npm start
+```
+
